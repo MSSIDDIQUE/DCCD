@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "822706959143",
+    "firebase_url": "https://dccd-ae167.firebaseio.com",
+    "project_id": "dccd-ae167",
+    "storage_bucket": "dccd-ae167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822706959143:android:9286d4fa0dbf429a",
+        "android_client_info": {
+          "package_name": "com.saquib.dccd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822706959143-03kofhs4i75oapp0cga6t4d0rnl7anp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saquib.dccd",
+            "certificate_hash": "dd2ece3146b857da4d36f20e14981f54434fff5b"
+          }
+        },
+        {
+          "client_id": "822706959143-tp9evefju517vqrqjpfg4rkfpd300mcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYWeimcIdUOq_FTGdVRwdjKRVjB5N2f24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822706959143-tp9evefju517vqrqjpfg4rkfpd300mcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
