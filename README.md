@@ -10,4 +10,4 @@ its a camera based application that can be used in payement gateways for the aut
 
 # link to download apk
 
-https://drive.google.com/file/d/1bc_rJdgevVvlyzi85KLjCOX_bR3Tvx9y/view?usp=drivesdk
+https://konyone-my.sharepoint.com/:u:/g/personal/saquib_siddique_kony_com/EYeuqZttS-ZIoubCKuOfJoIBqTEtqbg1s49i9lrdXl6TPw?e=9PlTuz
